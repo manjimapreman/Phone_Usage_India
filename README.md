@@ -50,9 +50,11 @@ The main objective is to understand how people use smartphones across different 
 - `data/` - Original dataset (if available)
 - `docs/` - Supporting documentation
 
+
+
 ## Dashboard Preview
 
-![India Phone Usage Dashboard](india_phone_usage_dashboard.png)
+![India Phone Usage Analysis Dashboard](dashboard.png)
 
 ## Project Objective
 The objective of this project is to analyze smartphone usage trends and understand user behavior based on age, gender, phone brand, operating system, and digital activities.
